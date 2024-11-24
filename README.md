@@ -22,8 +22,9 @@ This cheatsheet provides a clear, actionable guide for tackling **supervised** (
     - Regression: Numbers (e.g., "What will the sales be?")
   
   - **Unsupervised Learning**: Find patterns in unlabeled data
-    - Clustering: Group similar items
-    - Anomaly Detection: Find unusual patterns
+    - Clustering: Group similar items (e.g., "Which customers are similar?")
+    - Association Rule: Find relationships (e.g., "What products are bought together?")
+    - Anomaly Detection: Find unusual patterns (e.g., "Which transactions are suspicious?")
 
 - **Common Pitfall**: Starting without clear success metrics
 - **Best Practice**: Document your goals and constraints
