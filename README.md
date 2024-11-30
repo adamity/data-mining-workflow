@@ -90,6 +90,26 @@ This cheatsheet provides a clear, actionable guide for tackling **supervised** (
 
 - **Common Pitfall**: Data leakage during preprocessing
 - **Best Practice**: Create reproducible preprocessing steps
+- **Summary Checklist**:
+
+  - | **Phase**           | **Task**                               | **Completed (✔)** |
+    |---------------------|----------------------------------------|-------------------|
+    | **Data Cleaning**    | Handle Missing Values                 |                   |
+    |                     | Remove Duplicates                     |                   |
+    |                     | Fix Data Types                        |                   |
+    |                     | Handle Outliers                        |                   |
+    |                     | Remove Irrelevant Features            |                   |
+    |                     | Data Consistency & Standardization    |                   |
+    |                     | Handle Imbalanced Classes (Optional)  |                   |
+    | **Data Processing**  | Normalize/Standardize Features        |                   |
+    |                     | Encode Categorical Data               |                   |
+    |                     | Feature Engineering (New Features)    |                   |
+    |                     | Handle Date/Time Features             |                   |
+    |                     | Text Data Processing (if applicable)  |                   |
+    |                     | Feature Selection                     |                   |
+    |                     | Dimensionality Reduction (If Needed)  |                   |
+    |                     | Split the Data (Training/Validation/Test) |               |
+    |                     | Target Transformation (if needed)     |                   |
 
 ---
 
