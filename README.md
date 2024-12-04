@@ -323,3 +323,31 @@ This cheatsheet provides a clear, actionable guide for tackling **supervised** (
 ---
 
 **Remember**: This workflow is flexible - adapt it to your specific needs while keeping the core steps intact. The goal is to build effective models while following best practices!
+
+---
+
+## **Misc**
+
+### Essential Python Libraries for Data Science and Machine Learning:
+
+- **NumPy**  
+  - **Purpose**: Numerical Python  
+  - **Key Features**: Arrays, mathematical operations  
+  - **Description**: A foundational library for numerical computing, known for its fast array operations.  
+
+- **Pandas**  
+  - **Purpose**: Data manipulation and analysis  
+  - **Key Features**: DataFrames, structured data handling  
+  - **Description**: Essential for working with tabular data, enabling data cleaning, exploration, and transformation.  
+
+- **Matplotlib/Seaborn**  
+  - **Purpose**: Data visualization  
+  - **Key Features**:  
+    - Matplotlib: Low-level plotting for customization  
+    - Seaborn: High-level API for attractive and informative statistical graphics  
+  - **Description**: Used to create everything from basic plots to complex visualizations.  
+
+- **Scikit-learn (sklearn)**  
+  - **Purpose**: Machine Learning  
+  - **Key Features**: Algorithms, preprocessing, model evaluation  
+  - **Description**: A powerful library for building and evaluating machine learning models, including classification, regression, and clustering.
